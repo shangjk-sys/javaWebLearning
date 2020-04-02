@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>本地嗷嗷</title>
+    <title></title>
 </head>
 <body>
 <br/><h3>ss</h3>
