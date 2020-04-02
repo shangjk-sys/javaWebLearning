@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>注册成功qqq</title>
-    <h1 >sss</h1>
+
 </head>
 <body>
 <%
